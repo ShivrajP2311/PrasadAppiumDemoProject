@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-10T16:31:49 IST" name="Default suite" finished-at="2021-11-10T16:33:48 IST" duration-ms="119417">
+    <groups>
+    </groups>
+    <test started-at="2021-11-10T16:31:49 IST" name="Default test" finished-at="2021-11-10T16:33:48 IST" duration-ms="119417">
+      <class name="tests.ChromeTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.ChromeTest@4a7f959b]" started-at="2021-11-10T16:31:49 IST" name="setup" finished-at="2021-11-10T16:32:14 IST" duration-ms="25245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testOne()[pri:-1, instance:tests.ChromeTest@4a7f959b]" started-at="2021-11-10T16:32:14 IST" name="testOne" finished-at="2021-11-10T16:33:36 IST" duration-ms="81951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method signature="orangeHRMLoginTest()[pri:0, instance:tests.ChromeTest@4a7f959b]" started-at="2021-11-10T16:33:36 IST" name="orangeHRMLoginTest" finished-at="2021-11-10T16:33:48 IST" duration-ms="12119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHRMLoginTest -->
+        <test-method signature="sampleTest1()[pri:0, instance:tests.ChromeTest@4a7f959b]" started-at="2021-11-10T16:33:48 IST" name="sampleTest1" finished-at="2021-11-10T16:33:48 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest1 -->
+      </class> <!-- tests.ChromeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
